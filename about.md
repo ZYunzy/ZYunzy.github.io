@@ -47,7 +47,7 @@ key: page-about
 - Email: [yun.zhuang1803@gmail.com](mailto:yun.zhuang1803@gmail.com)
 - Location: Guangzhou, Guangdong, China
 - Website: [zyunzy.github.io](https://zyunzy.github.io/)
-- GitHub: [Zyunzy](https://github.com/Zyunzy)
+- GitHub: [ZYunzy](https://github.com/ZYunzy)
     
 ## Curriculum vitae:
 Here is the PDF version: [yunZHUANG Résumé](/zhuangyun-CV.pdf)
