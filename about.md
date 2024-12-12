@@ -1,74 +1,91 @@
 ---
 layout: article
-titles:
-  # @start locale config
-  en      : &EN       About
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
-  zh-Hant : &ZH_HANT  關於
-  zh-TW   : *ZH_HANT
-  zh-HK   : *ZH_HANT
-  ko      : &KO       소개
-  ko-KR   : *KO
-  fr      : &FR       À propos
-  fr-BE   : *FR
-  fr-CA   : *FR
-  fr-CH   : *FR
-  fr-FR   : *FR
-  fr-LU   : *FR
-  # @end locale config
+titles: About ME
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+<style>
+    body {
+        font-family: "Times New Roman", Times, serif;
+    }
+    .publication-title {
+        font-weight: bold;
+    }
+    .publication-authors {
+        font-style: italic;
+    }
+    .publication-date {
+        font-style: normal;
+    }
+    .experience-section {
+        margin-top: 20px;
+    }
+    .experience {
+        display: flex;
+        align-items: flex-start;
+        margin-bottom: 20px;
+    }
+    .experience-logo {
+        width: 50px;
+        height: 50px;
+        margin-right: 15px;
+    }
+    .experience-details h3 {
+        margin: 0;
+        font-size: 1.2em;
+        font-weight: bold;
+    }
+    .experience-details p {
+        margin: 5px 0;
+    }
+    .experience-details ul {
+        padding-left: 20px;
+        margin: 5px 0;
+    }
+</style>
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+- Email: [yun.zhuang1803@gmail.com](mailto:yun.zhuang1803@gmail.com)
+- Location: Guangzhou, Guangdong, China
+- Website: [zyunzy.github.io](https://zyunzy.github.io/)
+- GitHub: [Zyunzy](https://github.com/Zyunzy)
+    
+## Curriculum vitae:
+Here is the PDF version: [yunZHUANG Résumé](/zhuangyun-CV.pdf)
+<br>
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+## Education
 
-## Features
+<div class="experience-section">
+    <div class="experience">
+        <img src="assets/usclogo.png" alt="University of South Carolina" class="experience-logo">
+        <div class="experience-details">
+            <h3>M.Eng in Geomatics (Geographic Informatic Systems)</h3>
+            <p><strong>The Hongkong Polytechnic University</strong> | 2022 – 2024</p>
+            <p>Field <em>GIS, Geodesy, Remote Sensing, Photogrammetry, etc.</em></p>
+            <p>Advisor: <a href="https://scholar.google.com/citations?user=BhcMunkAAAAJ&hl=en">Dr. Xintao Liu</a></p>
+        </div>
+    </div>
+  
+    <div class="experience">
+        <img src="assets/usclogo.png" alt="University of South Carolina" class="experience-logo">
+        <div class="experience-details">
+            <h3>M.Eng in Urban Planning</h3>
+            <h3>Minor Program in Sustainable Development</h3>
+            <p><strong>Tongji University</strong> | 2020 – 2023</p>
+            <p>Field <em>Urban Planning, Sustainable Development, Transportation, etc.</em></p>
+            <p>Supervisor: <a href="https://caup.tongji.edu.cn/caupen/c1/f2/c11080a115186/page.htm">Prof. Shangwu Zhang</a></p>
+        </div>
+    </div>
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+    <div class="experience">
+        <img src="assets/Wuhan_University_of_Technology_logo.svg.png" alt="Wuhan University of Technology" class="experience-logo">
+        <div class="experience-details">
+            <h3>B.Eng in Urban Planning</h3>
+            <p><strong>South China University of Technology</strong> | 2015 – 2020</p>
+            <p>Field <em>Urban Planning, Architecture, Civil Engineering, Industrial Design, HCI, etc.</em></p>
+        </div>
+    </div>
+</div>
 
-## Skins
 
-TeXt has 6 built-in skins, you can also set up your own skin.
-
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
-
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
-
-### Highlight Theme
-
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=4iB7KkCGReQ-3k9eMOT6V6IWgO9ny8Fre9biQEf2NSg&cl=ffffff&w=a"></script>
