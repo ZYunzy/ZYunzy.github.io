@@ -62,7 +62,7 @@ Here is the PDF version: [yunZHUANG Résumé](/zhuangyun-CV.pdf)
             <h3>M.Sc in Geomatics (Geographic Informatic Systems)</h3>
             <p><strong>The Hongkong Polytechnic University</strong> | 2022 – 2024</p>
             <p>Field <em>GIS, Geodesy, Remote Sensing, Photogrammetry, etc.</em></p>
-            <p>Advisor: <a href="https://scholar.google.com/citations?user=BhcMunkAAAAJ&hl=en">Dr. Xintao Liu</a></p>
+            <p>Advisor: <a href="https://scholar.google.com/citations?user=BhcMunkAAAAJ&hl=en">Dr. Xintao Liu</a> <a href="https://scholar.google.com/citations?hl=en&user=Goj1ZjsAAAAJ">Dr. Rui Cao</a></p>
         </div>
     </div>
   
