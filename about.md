@@ -49,7 +49,7 @@ key: page-about
 - Website: [zyunzy.github.io](https://zyunzy.github.io/)
 - GitHub: [ZYunzy](https://github.com/ZYunzy)
     
-## Curriculum vitae:
+## Curriculum Vitae:
 Here is the PDF version: [yunZHUANG Résumé](/zhuangyun-CV.pdf)
 <br>
 
