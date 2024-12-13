@@ -57,7 +57,7 @@ Here is the PDF version: [yunZHUANG Résumé](/zhuangyun-CV.pdf)
 
 <div class="experience-section">
     <div class="experience">
-        <img src="assets/usclogo.png" alt="The Hongkong Polytechnic University" class="experience-logo">
+        <img src="assets/polyu_logo.png" alt="The Hongkong Polytechnic University" class="experience-logo">
         <div class="experience-details">
             <h3>M.Sc in Geomatics (Geographic Informatic Systems)</h3>
             <p><strong>The Hongkong Polytechnic University</strong> | 2022 – 2024</p>
