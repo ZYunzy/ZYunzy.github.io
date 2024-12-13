@@ -67,7 +67,7 @@ Here is the PDF version: [yunZHUANG Résumé](/zhuangyun-CV.pdf)
     </div>
   
     <div class="experience">
-        <img src="assets/usclogo.png" alt="Tongji University" class="experience-logo">
+        <img src="assets/tongji_logo.png" alt="Tongji University" class="experience-logo">
         <div class="experience-details">
             <h3>M.Eng in Urban Planning</h3>
             <h3>Minor Program in Sustainable Development</h3>
@@ -78,7 +78,7 @@ Here is the PDF version: [yunZHUANG Résumé](/zhuangyun-CV.pdf)
     </div>
 
     <div class="experience">
-        <img src="assets/Wuhan_University_of_Technology_logo.svg.png" alt="South China University" class="experience-logo">
+        <img src="assets/scut_logo.png" alt="South China University of Technology" class="experience-logo">
         <div class="experience-details">
             <h3>B.Eng in Urban Planning</h3>
             <p><strong>South China University of Technology</strong> | 2015 – 2020</p>
