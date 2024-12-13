@@ -87,7 +87,7 @@ Here is the PDF version: [yunZHUANG Résumé](/zhuangyun-CV.pdf)
     </div>
 
       <div class="experience">
-        <img src="assets/Wuhan_University_of_Technology_logo.svg.png" alt="South China University" class="experience-logo">
+        <img src="assets/iitg_logo.png" alt="South China University" class="experience-logo">
         <div class="experience-details">
             <h3>B.Sc in Data Science and Artificial Intelligence</h3>
             <p><strong>IITG</strong> | Online</p>
